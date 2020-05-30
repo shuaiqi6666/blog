@@ -1,0 +1,32 @@
+{
+  "name": "shuaiqi6666.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs", 
+    "deploy": "bash deploy.sh",
+    "start": "nodemon --ext md,vue --watch .vuepress --watch . --exec vuepress dev docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shuaiqi6666/shuaiqi6666.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shuaiqi6666/shuaiqi6666.github.io/issues"
+  },
+  "homepage": "https://github.com/shuaiqi6666/shuaiqi6666.github.io#readme",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.5.0",
+    "@vuepress/plugin-back-to-top": "^1.5.0",
+    "@vuepress/plugin-nprogress": "^1.5.0",
+    "vuepress": "0.14.4"
+  },
+  "dependencies": {
+    "leancloud-storage": "^4.5.3"
+  }
+}
