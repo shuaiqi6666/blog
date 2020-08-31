@@ -12,7 +12,7 @@ module.exports = {
     search: true,//搜索
     searchMaxSuggestions: 10,
     lastUpdated: true, // 最后更新时间
-    dest: '/dist',
+    dest: 'dist',
     themeConfig: {
         lastUpdated: "更新时间",    // 显示更新时间
         logo: "/img/logo.png",   // 导航栏左边logo,不写就不显示
