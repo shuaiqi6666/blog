@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: Seven Xiao
+heroText: 前端技术分享
 tagline: 学如逆水行舟，不进则退。
 actionText: 快速上手 →
 actionLink: /javascript/

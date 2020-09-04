@@ -21,6 +21,7 @@ module.exports = {
             { text: "JavaScript", link: "/javascript/" },
             { text: "Vue", link: "/vue/" },
             { text: "Node", link: "/node/" },
+            { text: "Http", link: "/http/" },
             { text: "WebPack", link: "/webpack/" },
             { text: "算法", link: "/algorithm/" },
             { text: "关于作者", link: "/about" },
