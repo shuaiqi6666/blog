@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # 关于作者
 
     name: Seven Xiao;
@@ -9,3 +13,4 @@
 
 ![An image](/img/weixin.jpg)
 ![An image](/img/zhifubao.jpg)
+

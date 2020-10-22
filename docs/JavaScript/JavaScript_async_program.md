@@ -2,7 +2,7 @@
 sidobar: true
 ---
 
-# 深入理解 - JavaScript异步编程
+# JavaScript异步编程
 
 ## 前言
 

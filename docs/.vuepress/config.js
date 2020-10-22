@@ -27,6 +27,21 @@ module.exports = {
             { text: "关于作者", link: "/about" },
             { text: "GitHub", link: "https://github.com/shuaiqi6666" }
         ],
+        sidebar: {
+            '/JavaScript/': [
+                'copy',
+                'functional_programming',
+                'JavaScript_async_program',
+                'performance_optimization',
+                'Iterators_and_generators',
+                'data_type',
+                'prototype_chain'
+            ],
+            '/http/': [
+                'http_state_code',
+                'http_cache'
+            ]
+        }
     },
     plugins: [
         '@vuepress/active-header-links',

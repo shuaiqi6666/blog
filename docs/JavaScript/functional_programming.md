@@ -1,4 +1,4 @@
-# 深入理解 - JavaScript函数式编程
+# JavaScript函数式编程
 
 
 ## 为什么要学习函数式编程
